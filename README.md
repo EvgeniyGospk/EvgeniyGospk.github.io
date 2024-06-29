@@ -3,4 +3,4 @@
 # Евгений Госп
 Мой первый опубликованный сайт
 
-[Урок 12](https://evgeniygospk.github.io/lesson_12/ "Моя готовая домашка")
+[Урок 12](https://evgeniygospk.github.io/lesson_12/ "Моя готовая домашка") - работа с репозиторием на github
